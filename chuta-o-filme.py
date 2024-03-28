@@ -8,7 +8,6 @@ filmes = ['Duna', 'Mad Max', 'Nosferatu', 'Bastardos Inglórios', 'Oppenheimer',
 
 # Pega um filme aleatorio da lista e armezenar na variavel
 filme_secreto = rd.choice(filmes)
-print(filme_secreto)
 
 # Usuário tenta adinhar o filme e o armazena na variavel    
 chute_usuario = input(print('Qual o seu chute? '))
