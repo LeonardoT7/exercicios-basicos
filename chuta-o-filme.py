@@ -1,8 +1,8 @@
 # Máquina escolhe aleatoriamente um item da lista "filmes"
-# e cabe ao usuário adivinhar o item escolhido pelo pc.
+# e cabe ao usuário adivinhar o item escolhido pelo computador.
 import random as rd
 
-# Lista contendo 10 possibilidades ####ADICIONAR MAIS FILMES
+# Lista contendo todas as possibilidades 
 filmes = ['Duna', 'Mad Max', 'Nosferatu', 'Bastardos Inglórios', 'Oppenheimer', 
 'Batman', 'Vingadores', 'Homem Aranha', 'Indiana Jones', 'Transformers']
 
